@@ -4,11 +4,11 @@
     "slug": "Notify",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./images/icon3.png",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./images/splash2.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#3F51B5"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,6 +21,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.yourcompany.notify",
+      "versionCode": 1
     }
   }
 }

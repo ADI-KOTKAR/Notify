@@ -1,0 +1,5 @@
+export const db_url = 'https://jsonkeeper.com/b/FKMX'
+export const events_url = 'https://adi-kotkar.github.io/DummyData/db.json'
+export const jobs_url = 'https://adi-kotkar.github.io/DummyData/db.json'
+export const study_url = 'https://adi-kotkar.github.io/DummyData/db.json'
+export const talks_url = 'https://adi-kotkar.github.io/DummyData/db.json'
