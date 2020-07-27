@@ -5,6 +5,7 @@ import { Container, Text } from 'native-base';
 import { AppLoading } from 'expo';
 import * as Font from 'expo-font';
 import { Ionicons } from '@expo/vector-icons';
+import Navigator from './routes/homeStack'
 
 export default class App extends React.Component {
   constructor(props) {
@@ -30,7 +31,7 @@ export default class App extends React.Component {
 
     return (
       <Container>
-        <TabScreen/>
+        <Navigator />
       </Container>
     );
   }

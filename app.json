@@ -4,7 +4,7 @@
     "slug": "Notify",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./images/icon3.png",
+    "icon": "./images/icon2.png",
     "splash": {
       "image": "./images/splash2.png",
       "resizeMode": "cover",
